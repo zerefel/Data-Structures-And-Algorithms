@@ -1,0 +1,111 @@
+You are given the C# class StupidList<T> which implements a list of generic type T with 
+operations Add(T), Remove(index), RemoveFirst(), RemoveLast(), 
+this[index] (access by index), Length, First and Last:
+
+
+
+public class StupidList<T>
+{
+    private T[] arr = new T[0];
+
+    public int Length
+    {
+        get
+        {
+            return this.arr.Length;
+        }
+    }
+
+    public T this[int index]
+    {
+        get
+        {
+            return this.arr[index];
+        }
+    }
+
+    public T First
+    {
+        get
+        {
+            return this.arr[0];
+        }
+    }
+
+    public T Last
+    {
+        get
+        {
+            return this.arr[this.arr.Length - 1];
+        }
+    }
+
+    public void Add(T item)
+    {
+        var newArr = new T[this.arr.Length + 1];
+        Array.Copy(this.arr, newArr, this.arr.Length);
+        newArr[newArr.Length - 1] = item;
+        this.arr = newArr;
+    }
+
+    public T Remove(int index)
+    {
+        T result = this.arr[index];
+        var newArr = new T[this.arr.Length - 1];
+        Array.Copy(this.arr, newArr, index);
+        Array.Copy(this.arr, index + 1, newArr, index, this.arr.Length - index - 1);
+        this.arr = newArr;
+        return result;
+    }
+
+    public T RemoveFirst()
+    {
+        return this.Remove(0);
+    }
+
+    public T RemoveLast()
+    {
+        return this.Remove(this.Length - 1);
+    }
+}
+
+
+In all of the answers below I'll only cover the MOST significant portion of complexity.
+Operations like allocation of a single variable will be skipped.
+
+
+1) Calculate the expected running time O(f(n)) of the Add(T) operation in the above code in the worst case.
+- The expected worst case for the Add method has a linear complexity O(n). This is because we create a new array,
+ iterate through all values from the old one and copy them in the new one.
+
+2) Calculate the expected running time O(f(n)) of the Remove(index) operation in the worst case.
+- The expected worst case for the Remove method has a linear complexity O(n). 
+The reason for it is the Copy operation which the original Array of N elements undergoes.
+
+3) Calculate the expected running time O(f(n)) of the Remove(index) operation in the best case.
+- Due to the very poor implementation of the algorithm, the best case for said method would still require
+O(n) operations to complete.
+
+4) Calculate the expected running time O(f(n)) of the Remove(index) operation in the average case.
+- Given the worst and best cases, the average will again require O(n) operations to complete.
+
+5) Calculate the expected running time O(f(n)) of the RemoveFirst(T) operation. 
+- The operation is pretty straight forward. We directly access the very first element of the array 
+by index and delete it. The method has a constant complexity O(1).
+
+6) Calculate the expected running time O(f(n)) of the RemoveLast(T) operation. 
+- Same as above, the complexity is constant, O(1) in all cases.
+
+7) Calculate the expected running time O(f(n)) of the Length operation. 
+- The Length property of an array has a constant complexity O(1).
+
+8) Calculate the expected running time O(f(n)) of the operation this[index]. 
+- The complexity of the operation is constant, O(1). We directly access the element by its index,
+no iterations are done.
+
+9) Calculate the expected running time O(f(n)) of the First operation. 
+- Same as above. We directly access the element by its index. Constant complexity O(1).
+
+10) Calculate the expected running time O(f(n)) of the Last operation. 
+- I mean really. Didn't you understand that accessing an element by index is an operation with constant
+complexity O(1).
