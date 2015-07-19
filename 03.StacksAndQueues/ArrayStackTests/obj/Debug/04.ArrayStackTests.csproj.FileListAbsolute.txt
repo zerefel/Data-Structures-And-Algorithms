@@ -1,0 +1,7 @@
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\03.StacksAndQueues\ArrayStackTests\obj\Debug\04.ArrayStackTests.csprojResolveAssemblyReference.cache
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\03.StacksAndQueues\ArrayStackTests\bin\Debug\ArrayStackTests.dll
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\03.StacksAndQueues\ArrayStackTests\bin\Debug\ArrayStackTests.pdb
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\03.StacksAndQueues\ArrayStackTests\bin\Debug\03.ArrayBasedStack.exe
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\03.StacksAndQueues\ArrayStackTests\bin\Debug\03.ArrayBasedStack.pdb
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\03.StacksAndQueues\ArrayStackTests\obj\Debug\ArrayStackTests.dll
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\03.StacksAndQueues\ArrayStackTests\obj\Debug\ArrayStackTests.pdb

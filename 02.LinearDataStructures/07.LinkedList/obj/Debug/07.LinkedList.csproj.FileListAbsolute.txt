@@ -1,0 +1,6 @@
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\02.LinearDataStructures\07.LinkedList\bin\Debug\07.LinkedList.exe.config
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\02.LinearDataStructures\07.LinkedList\obj\Debug\07.LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\02.LinearDataStructures\07.LinkedList\bin\Debug\07.LinkedList.exe
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\02.LinearDataStructures\07.LinkedList\bin\Debug\07.LinkedList.pdb
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\02.LinearDataStructures\07.LinkedList\obj\Debug\07.LinkedList.exe
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\02.LinearDataStructures\07.LinkedList\obj\Debug\07.LinkedList.pdb

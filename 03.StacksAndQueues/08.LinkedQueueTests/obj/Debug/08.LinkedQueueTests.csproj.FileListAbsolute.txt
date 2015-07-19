@@ -1,0 +1,7 @@
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\03.StacksAndQueues\08.LinkedQueueTests\obj\Debug\08.LinkedQueueTests.csprojResolveAssemblyReference.cache
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\03.StacksAndQueues\08.LinkedQueueTests\bin\Debug\08.LinkedQueueTests.dll
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\03.StacksAndQueues\08.LinkedQueueTests\bin\Debug\08.LinkedQueueTests.pdb
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\03.StacksAndQueues\08.LinkedQueueTests\bin\Debug\07.LinkedQueue.exe
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\03.StacksAndQueues\08.LinkedQueueTests\bin\Debug\07.LinkedQueue.pdb
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\03.StacksAndQueues\08.LinkedQueueTests\obj\Debug\08.LinkedQueueTests.dll
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\03.StacksAndQueues\08.LinkedQueueTests\obj\Debug\08.LinkedQueueTests.pdb

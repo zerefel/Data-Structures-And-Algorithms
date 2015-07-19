@@ -1,0 +1,6 @@
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\03.StacksAndQueues\05.LinkedStack\bin\Debug\05.LinkedStack.exe.config
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\03.StacksAndQueues\05.LinkedStack\bin\Debug\05.LinkedStack.exe
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\03.StacksAndQueues\05.LinkedStack\bin\Debug\05.LinkedStack.pdb
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\03.StacksAndQueues\05.LinkedStack\obj\Debug\05.LinkedStack.csprojResolveAssemblyReference.cache
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\03.StacksAndQueues\05.LinkedStack\obj\Debug\05.LinkedStack.exe
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\03.StacksAndQueues\05.LinkedStack\obj\Debug\05.LinkedStack.pdb

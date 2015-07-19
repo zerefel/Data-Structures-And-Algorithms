@@ -1,0 +1,6 @@
+c:\users\zerefel\documents\visual studio 2013\Projects\02.LinearDataStructures\02.SortWords\bin\Debug\02.SortWords.exe.config
+c:\users\zerefel\documents\visual studio 2013\Projects\02.LinearDataStructures\02.SortWords\bin\Debug\02.SortWords.exe
+c:\users\zerefel\documents\visual studio 2013\Projects\02.LinearDataStructures\02.SortWords\bin\Debug\02.SortWords.pdb
+c:\users\zerefel\documents\visual studio 2013\Projects\02.LinearDataStructures\02.SortWords\obj\Debug\02.SortWords.exe
+c:\users\zerefel\documents\visual studio 2013\Projects\02.LinearDataStructures\02.SortWords\obj\Debug\02.SortWords.pdb
+C:\Users\ZerefeL\documents\visual studio 2013\Projects\02.LinearDataStructures\02.SortWords\obj\Debug\02.SortWords.csprojResolveAssemblyReference.cache

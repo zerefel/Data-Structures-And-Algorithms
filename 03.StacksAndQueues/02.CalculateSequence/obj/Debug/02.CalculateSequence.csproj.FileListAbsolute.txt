@@ -1,0 +1,5 @@
+c:\users\zerefel\documents\visual studio 2013\Projects\03.StacksAndQueues\02.CalculateSequence\bin\Debug\02.CalculateSequence.exe.config
+c:\users\zerefel\documents\visual studio 2013\Projects\03.StacksAndQueues\02.CalculateSequence\bin\Debug\02.CalculateSequence.exe
+c:\users\zerefel\documents\visual studio 2013\Projects\03.StacksAndQueues\02.CalculateSequence\bin\Debug\02.CalculateSequence.pdb
+c:\users\zerefel\documents\visual studio 2013\Projects\03.StacksAndQueues\02.CalculateSequence\obj\Debug\02.CalculateSequence.exe
+c:\users\zerefel\documents\visual studio 2013\Projects\03.StacksAndQueues\02.CalculateSequence\obj\Debug\02.CalculateSequence.pdb
